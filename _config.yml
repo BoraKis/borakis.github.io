@@ -84,33 +84,15 @@ author:
   avatar           : "borakis.png"
   bio              : "Biomedical Engineer Student at Duzce University"
   location         : "Ankara, Turkey"
-  employer         :
+  kaggle           : "https://www.kaggle.com/bora19"
   email            : "izzetkis@hotmail.com"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
+  facebook         : "https://www.facebook.com/people/İzzet-Bora-Kış/100013869244752"
   github           : "https://github.com/BoraKis"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  instagram        : "https://www.instagram.com/izzetborakis/"
+  linkedin         : "https://www.linkedin.com/in/izzet-bora-kiş-1008999b/"
+  stackoverflow    : "https://stackoverflow.com/users/12311721/bora-kış"
+  twitter          : "https://twitter.com/izzetborakis"
+  youtube          : "https://www.youtube.com/channel/UCS5YRSHgQFgIYsme1grd0xA?view_as=subscriber"
 
 
 # Reading Files
