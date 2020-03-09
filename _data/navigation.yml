@@ -1,0 +1,15 @@
+# main links links
+main:
+  # - title: "About Me"
+  #   url: /about me/
+
+  - title: "CV"
+    url: /cv/    
+
+  - title: "Projects"
+    url: /projects/    
+    
+  - title: "Contact"
+    url: /contact/
+        
+  
