@@ -84,15 +84,15 @@ author:
   avatar           : "borakis.png"
   bio              : "Biomedical Engineer Student at Duzce University"
   location         : "Ankara, Turkey"
-  kaggle           : "bora19"
+  kaggle           : 
   email            : "izzetkis@hotmail.com"
-  facebook         : "https://www.facebook.com/people/İzzet-Bora-Kış/100013869244752"
+  facebook         : 
   github           : "BoraKis"
-  instagram        : "https://www.instagram.com/izzetborakis/"
-  linkedin         : "https://www.linkedin.com/in/izzet-bora-kiş-1008999b/"
-  stackoverflow    : "https://stackoverflow.com/users/12311721/bora-kış"
+  instagram        : "izzetborakis"
+  linkedin         : "izzet-bora-kiş-"
+  stackoverflow    : 
   twitter          : "izzetborakis"
-  youtube          : "https://www.youtube.com/channel/UCS5YRSHgQFgIYsme1grd0xA?view_as=subscriber"
+  youtube          : 
 
 
 # Reading Files
