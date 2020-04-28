@@ -13,28 +13,6 @@ My name is Bora.
 I was born on October 4, 1998 in Ankara. After completing my primary and high school education here, I was entitled to enter the Department of Biomedical Engineering in Düzce University in 2016 and still continue my education life. I will complete my undergraduate period in June 2020.
 I am particularly interested in machine learning, deep learning, artificial intelligence, digital signal processing and image processing.
 
-### Private Cag Hospital Intern (2014 July - 2014 Sep) Biomedical Technical Service
-* Periodical maintenance and calibration of the medical devices at the hospital.
-
-Location: *Kizilay, Ankara*
-
-### Vamet Medical Intern (2015 June - 2015 Agu) Biomedical Technical Service
-* Technical services of the high quality medical products used in diagnosis of the diseases concerning the Cardiovascular Surgery, Cardiology and Radiology departments.
-
-Location: *Gaziosmanpasa, Ankara*
-
-### Private Guven Hospital Intern (2018 July - 2018 Sep) Biomedical Technical Service
-*  Maintenance, repair and calibration of the medical devices at the hospital.
-
-Location: *Ayranci, Ankara*
-
-### ERTUNC OZCAN Medical Firm Intern (2019 July - 2019 Agu) Biomedical Technical Service
-* I worked in the production, final test and quality control departments of the incubators and radiotherapy devices in the neonatal intensive care unit.
-
-Location: *Sincan, Ankara*
-
-
-
 **Markdown generator**
 
 I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
