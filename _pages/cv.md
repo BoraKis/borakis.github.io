@@ -16,14 +16,25 @@ Education
 
 Work experience
 ======
-* Summer 2014 July - September: Biomedical Technical Service
+### Summer July - September 2014: Private Cag Hospital Intern - Biomedical Technical Service
+  
   * Periodical maintenance and calibration of the medical devices at the hospital.
- Location: *Kizilay, Ankara*
+   Location: *Kizilay, Ankara*
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+### Summer June - August 2015 : Vamet Medical Intern - Biomedical Technical Service
+ 
+  * Technical services of the high quality medical products used in diagnosis of the diseases concerning the    Cardiovascular Surgery, Cardiology and Radiology departments.
+   Location: *Gaziosmanpasa, Ankara*
+
+### Summer July - September 2018 : Private Guven Hospital Intern - Biomedical Technical Service
+
+  *  Maintenance, repair and calibration of the medical devices at the hospital.
+   Location: *Ayranci, Ankara*
+
+### Summer June - August 2019 : ERTUNC OZCAN Medical Firm Intern - Biomedical Technical Service
+
+ * I worked in the production, final test and quality control departments of the incubators and radiotherapy devices in the neonatal intensive care unit.
+  Location: *Sincan, Ankara* 
   
 Skills
 ======
