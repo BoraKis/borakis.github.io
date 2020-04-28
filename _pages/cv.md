@@ -34,7 +34,7 @@ Work experience
 ### Summer June - August 2019 : ERTUNC OZCAN Medical Firm Intern - Biomedical Technical Service
 
  * I worked in the production, final test and quality control departments of the incubators and radiotherapy devices in the neonatal intensive care unit.
-  Location: *Sincan, Ankara* 
+  Location: *Sincan, Ankara*
   
 Skills
 ======
