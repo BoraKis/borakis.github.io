@@ -16,12 +16,11 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2014 July - September: Biomedical Technical Service
+  * Periodical maintenance and calibration of the medical devices at the hospital.
+ Location: *Kizilay, Ankara*
 
-* Fall 2015: Research Assistant
+* Summer 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
