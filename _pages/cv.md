@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Duzce, Biomedical Engineering at Duzce University, 2016-2020
-* Ankara, Elvankoy IMKB Vocational and Technical Anatolian High School, 2012-2016
+* B.S. in Biomedical Engineering, Duzce University, 2016-2020 (expected)
+* Elvankoy IMKB Vocational and Technical Anatolian High School, Ankara, 2012-2016
 
 Work experience
 ======
