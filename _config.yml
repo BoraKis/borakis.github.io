@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : "izzetborakis"
 facebook:
   username               :
   app_id                 :
@@ -100,6 +100,7 @@ include:
   - _pages
   - files
 exclude:
+  - "*.idea"
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
